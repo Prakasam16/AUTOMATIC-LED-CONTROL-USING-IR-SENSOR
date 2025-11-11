@@ -26,29 +26,35 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 ### **Procedure**
 
 1. Open **STM32CubeIDE**.
-   <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/109135f6-e6f9-46f8-86e1-ecafa6170b01" />
+   <img width="1907" height="1068" alt="Screenshot 2025-11-11 110752" src="https://github.com/user-attachments/assets/ccda8b45-7c20-48f1-a459-53ac3cfda719" />
+
 
 2. Click **File → New STM32 Project**.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/edf33429-8eea-4857-a991-c2d7706fc787" />
+  <img width="1900" height="1067" alt="Screenshot 2025-11-11 111056" src="https://github.com/user-attachments/assets/d82ae604-f86a-4ceb-913f-fe7a32bb22d0" />
+<img width="1907" height="1068" alt="Screenshot 2025-11-11 111114" src="https://github.com/user-attachments/assets/2cbaab37-10f7-439b-9b4f-2a288a594a9b" />
+
 
 3. Select the **target microcontroller** or board and click **Next**.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
+  <img width="1907" height="1068" alt="Screenshot 2025-11-11 111114" src="https://github.com/user-attachments/assets/2cbaab37-10f7-439b-9b4f-2a288a594a9b" />
 
 
 
 4. Name the project.
-   <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
+   <img width="1907" height="1068" alt="Screenshot 2025-11-11 111228" src="https://github.com/user-attachments/assets/a4ee4ad7-c13c-4dc7-8b89-33343de6e547" />
+
 
 5. The corresponding `.ioc` file will be generated automatically.
-  <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
+  <img width="1920" height="1080" alt="Screenshot 2025-11-11 114821" src="https://github.com/user-attachments/assets/3a6a3e99-5352-4722-a320-ab4c64022d78" />
 
 6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
-<img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
+  <img width="1920" height="1080" alt="Screenshot 2025-11-11 114747" src="https://github.com/user-attachments/assets/61cc17cb-2090-4cb9-8ab2-4ff71025f0af" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-11 115648" src="https://github.com/user-attachments/assets/b5567c8b-dc93-43cc-af84-b3b607fc87c7" />
+
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
+ <img width="1920" height="1080" alt="Screenshot 2025-11-11 115756" src="https://github.com/user-attachments/assets/5de8f218-f3ad-4fd1-b5be-429e13926634" />
+
  
 8. Edit the generated main program as required.
    <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
