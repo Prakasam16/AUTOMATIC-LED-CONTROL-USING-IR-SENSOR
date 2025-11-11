@@ -57,17 +57,19 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
  
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
-<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
+  <img width="1920" height="1080" alt="Screenshot 2025-11-11 114901" src="https://github.com/user-attachments/assets/3f68943d-27cb-48e0-b450-041384442c23" />
 
 9. Click **Project → Build All**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
+    <img width="1920" height="1080" alt="Screenshot 2025-11-11 115001" src="https://github.com/user-attachments/assets/ca2bf9e1-69a4-4771-818d-0b779e89ab5b" />
+
 
 10. Link the **HEX file** using the post-build process.
-    <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
+   <img width="1920" height="1080" alt="Screenshot 2025-11-11 115026" src="https://github.com/user-attachments/assets/180c4f9f-0fa0-4d96-8659-548aecc9a04c" />
+
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+   <img width="1920" height="1080" alt="Screenshot 2025-11-11 115152" src="https://github.com/user-attachments/assets/94ac49f1-8008-40f6-89aa-0fad51bb2853" />
+
 
 13. Click **Run** to execute the program.
     
@@ -108,8 +110,12 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+<img width="1031" height="465" alt="Screenshot 2025-11-11 120334" src="https://github.com/user-attachments/assets/c004028f-5e0c-4b5c-a7a2-90e3f3ee27fb" />
+
 
 CASE 2: LED OFF
+<img width="1032" height="468" alt="Screenshot 2025-11-11 120352" src="https://github.com/user-attachments/assets/d87e6984-ee49-4f9d-b300-fdb930d9bfbe" />
+
 
 ---
 ### RESULT
